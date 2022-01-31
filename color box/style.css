@@ -1,0 +1,199 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.mainBox {
+    /*height: 200px;
+    width: 200px;
+    background: rgb(11, 236, 22);*/
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 40px;
+    text-align: center;
+    
+    
+}
+.box1 {
+    height: 200px;
+    width: 200px;
+    background: rgb(230, 10, 10);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}   
+.box2 {
+    height: 200px;
+    width: 200px;
+    background: rgb(132, 170, 136);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}   
+
+.box3 {
+    height: 200px;
+    width: 200px;
+    background: rgb(53, 8, 212);
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box4 {
+    height: 200px;
+    width: 200px;
+    background: rgb(10, 180, 202);
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box5 {
+    height: 200px;
+    width: 200px;
+    background: rgb(151, 5, 102);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box6 {
+    height: 200px;
+    width: 200px;
+    background: rgb(112, 11, 158);
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box7 {
+    height: 200px;
+    width: 200px;
+    background: rgb(191, 145, 196);
+    float:right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box8 {
+    height: 200px;
+    width: 200px;
+    background: rgb(24, 24, 32);
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box9 {
+    height: 200px;
+    width: 200px;
+    background: rgb(141, 129, 141);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box10 {
+    height: 200px;
+    width: 200px;
+    background: rgb(114, 99, 180);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box11 {
+    height: 200px;
+    width: 200px;
+    background: rgb(96, 177, 107);
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box12 {
+    height: 200px;
+    width: 200px;
+    background: rgb(29, 12, 32);
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box13 {
+    height: 200px;
+    width: 200px;
+    background: rgb(14, 120, 146);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box14 {
+    height: 200px;
+    width: 200px;
+    background: rgb(16, 9, 49);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box15 {
+    height: 200px;
+    width: 200px;
+    background: rgb(116, 87, 231);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box16 {
+    height: 200px;
+    width: 200px;
+    background: rgb(31, 71, 77);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box17 {
+    height: 200px;
+    width: 200px;
+    background: rgb(85, 3, 52);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box18 {
+    height: 200px;
+    width: 200px;
+    background: rgb(31, 231, 74);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
